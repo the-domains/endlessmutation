@@ -1,0 +1,29 @@
+name: Endless Mutation
+favicon: null
+layout_spectrum: 0.8938947182614356
+typography_spectrum: 0.27674527117051184
+title: Endless Mutation Center for Strange Youth
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.9986331549007446
+  lightness: 0.983010979834944
+  saturation: 0.6686654451768845
+  rhythmicContrast: 0.6141309328377247
+purpose: []
